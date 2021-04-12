@@ -1,2 +1,2 @@
 # teste
-teste de criação de um repo
+Teste de criação de um repo no Github.
